@@ -1,0 +1,39 @@
+fieldset ul.resend, fieldset li.resend {
+	
+	border:0; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+
+fieldset li.resend {
+	
+	clear:both;
+	list-style:none;
+	padding-bottom:10px;
+}
+
+fieldset input.resend { 
+
+	float:left;
+}
+
+fieldset label.resend {
+	
+	width:300px;
+	float:left;
+}
+
+fieldset em.resend {
+	
+	color: #F80C0C;
+	display: block;
+	width: 150px;
+	font-weight: 100;
+	font-size: 16px;
+}
+
+fieldset legend.resend{
+	
+	font-size: 20px;
+}

@@ -1,0 +1,16 @@
+Success:
+1- Registered successfully
+2- Successfully reset(forgot password)
+3- Successfully reset(normal reset)
+4- Details updated
+5- Account locked
+6- Confirmation email sent to reset forgotten password
+7- Forgotten password reset successfully
+
+Error:
+1- Internal error
+2- Account is locked
+3- Account not active
+4- Account already locked
+5- Link expired
+6- Page does not exist

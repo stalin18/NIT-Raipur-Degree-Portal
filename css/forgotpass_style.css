@@ -1,0 +1,39 @@
+fieldset ul.forgotpass, fieldset li.forgotpass {
+	
+	border:0; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+
+fieldset li.forgotpass {
+	
+	clear:both;
+	list-style:none;
+	padding-bottom:10px;
+}
+
+fieldset input.forgotpass { 
+
+	float:left;
+}
+
+fieldset label.forgotpass {
+	
+	width:300px;
+	float:left;
+}
+
+fieldset em.forgotpass {
+	
+	color: #F80C0C;
+	display: block;
+	width: 150px;
+	font-weight: 100;
+	font-size: 16px;
+}
+
+fieldset legend.forgotpass{
+	
+	font-size: 20px;
+}

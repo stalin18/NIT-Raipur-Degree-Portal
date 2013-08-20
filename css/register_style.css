@@ -1,0 +1,44 @@
+fieldset ul.reg, fieldset li.reg {
+	
+	border:0; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+
+fieldset li.reg {
+	
+	clear:both;
+	list-style:none;
+	padding-bottom:10px;
+}
+
+fieldset input.reg { 
+	
+	float:left;
+}
+
+fieldset textarea.reg { 
+	
+	float:left;
+}
+
+fieldset label.reg {
+	
+	width:300px;
+	float:left;
+}
+
+fieldset em.reg {
+	
+	color: #F80C0C;
+	display: block;
+	width: 150px;
+	font-weight: 100;
+	font-size: 16px;
+}
+
+fieldset legend.reg{
+	
+	font-size: 20px;
+}

@@ -1,0 +1,44 @@
+fieldset ul.edit, fieldset li.edit {
+	
+	border:0; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+
+fieldset li.edit {
+	
+	clear:both;
+	list-style:none;
+	padding-bottom:10px;
+}
+
+fieldset input.edit { 
+	
+	float:left;
+}
+
+fieldset textarea.edit { 
+	
+	float:left;
+}
+
+fieldset label.edit {
+	
+	width:300px;
+	float:left;
+}
+
+fieldset em.edit {
+	
+	color: #F80C0C;
+	display: block;
+	width: 150px;
+	font-weight: 100;
+	font-size: 16px;
+}
+
+fieldset legend.edit{
+	
+	font-size: 20px;
+}

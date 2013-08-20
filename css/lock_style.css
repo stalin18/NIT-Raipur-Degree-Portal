@@ -1,0 +1,30 @@
+fieldset ul.lock, fieldset li.lock {
+	
+	border:0; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+
+fieldset li.lock {
+	
+	clear:both;
+	list-style:none;
+	padding-bottom:10px;
+}
+
+fieldset input.lock { 
+	
+	float:left;
+}
+
+fieldset label.lock {
+	
+	width:300px;
+	float:left;
+}
+
+fieldset legend.lock{
+	
+	font-size: 20px;
+}

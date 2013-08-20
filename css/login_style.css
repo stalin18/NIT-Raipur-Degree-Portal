@@ -1,0 +1,39 @@
+fieldset ul.login, fieldset li.login {
+	
+	border:0; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+
+fieldset li.login {
+	
+	clear:both;
+	list-style:none;
+	padding-bottom:10px;
+}
+
+fieldset input.login { 
+
+	float:left;
+}
+
+fieldset label.login {
+	
+	width:300px;
+	float:left;
+}
+
+fieldset em.login {
+	
+	color: #F80C0C;
+	display: block;
+	width: 150px;
+	font-weight: 100;
+	font-size: 16px;
+}
+
+fieldset legend.login{
+	
+	font-size: 20px;
+}
